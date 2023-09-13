@@ -1,5 +1,5 @@
 # machineFailurePrediction
-Binary classification (machine failure prediction) and recall optimization for unbalanced datasets. 
+Binary Classification (Machine Failure Prediction) and Recall Optimization in unbalanced datasets. 
 
 Comparing scenarios and algorithms to check performance.
 
