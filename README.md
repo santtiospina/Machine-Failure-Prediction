@@ -9,7 +9,10 @@ Binary classification (machine failure prediction) and recall optimization for u
 
 The 47.26% recall was obtained using Johnson Transformations to the features and L1 regularization with alpha=0.07 
 
-The Synthetic Minority Oversampling Technique (SMOTE) was necessary because of an imbalanced (98:2) dataset which means that in 98% of the entries the machine didn't fail, and just in 2% of the entries it did fail. 
+The Synthetic Minority Oversampling Technique (SMOTE) was necessary because of an imbalanced (98:2) dataset -> 98% of the entries machine failure was == 0
+
+<img width="867" alt="Captura de pantalla 2023-09-13 a la(s) 1 18 07 p m" src="https://github.com/santtiospina/machineFailurePrediction/assets/75998236/f3fcec8e-3738-4366-b8d9-afdb0dfaff72">
+
 
 With feature engineering, removing multicollinearity, encoding categorial variables and oversampling the desired predicted feature the model was able to obtain:
 
