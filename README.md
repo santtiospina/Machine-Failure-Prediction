@@ -3,7 +3,7 @@ Binary classification (machine failure prediction) and recall optimization for u
 
 # First Results: 
 
-## Improve recall from 47.26% to 95.21% using Synthetic Minority Oversampling Technique and Extreme Gradient Boosting 
+## Improved recall from 47.26% to 95.21% using Synthetic Minority Oversampling Technique and Extreme Gradient Boosting (XGBoost)
 
 The 47.26% recall was obtained using Johnson Transformations to the features and L1 regularization with alpha=0.07 
 
