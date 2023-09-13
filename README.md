@@ -1,5 +1,5 @@
 # machineFailurePrediction
-Binary classification (machine failure prediction) and recall optimization for unbalanced datasets. Comparing XGB, LR, L1, JT, and more to check performance.
+Binary classification (machine failure prediction) and recall optimization for unbalanced datasets. Comparing XGB, LR, L1, JT, scenarios and algorithms to check performance.
 
 # Recall Results: 
 
