@@ -1,7 +1,9 @@
 # machineFailurePrediction
 Binary classification (machine failure prediction) and recall optimization for unbalanced datasets. Comparing XGB, LR, L1, JT, and more to check performance.
 
-# First Results: 
+# Recall Results: 
+
+![image](https://github.com/santtiospina/machineFailurePrediction/assets/75998236/e0afdba3-7cb6-43f6-aecc-a55d57f12324)
 
 ## Improved recall from 47.26% to 95.21% using Synthetic Minority Oversampling Technique and Extreme Gradient Boosting (XGBoost)
 
