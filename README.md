@@ -5,7 +5,7 @@ Comparing scenarios and algorithms to check performance.
 
 _XGBoost, L1 Regularization, Johnson Transformation, QQplots, Statistical Distributions_
 
-# Recall Results: 
+# Comparing RECALL results of various models: 
 
 ![image](https://github.com/santtiospina/machineFailurePrediction/assets/75998236/e0afdba3-7cb6-43f6-aecc-a55d57f12324)
 
