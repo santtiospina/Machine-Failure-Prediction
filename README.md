@@ -21,10 +21,6 @@ The Synthetic Minority Oversampling Technique (SMOTE) was necessary because of a
 
 With feature engineering, removing multicollinearity, and encoding categorial variables, the model using Synthetic Minority Oversampling Technique and Extreme Gradient Boosting (XGBoost) was able to improve recall in an imbalanced datasets obtaining:
 
-![image](https://github.com/santtiospina/machineFailurePrediction/assets/75998236/76bd90ce-92c5-4606-804d-97ae68c381b7)
-obtained from: https://www.tutorialexample.com/an-introduction-to-accuracy-precision-recall-f1-score-in-machine-learning-machine-learning-tutorial/
-
-
 Accuracy: 0.9985
 
 Precision: 0.9542
@@ -32,3 +28,10 @@ Precision: 0.9542
 Recall: 0.9521
 
 F1 Score: 0.9531
+
+![image](https://github.com/santtiospina/machineFailurePrediction/assets/75998236/76bd90ce-92c5-4606-804d-97ae68c381b7)
+
+obtained from: https://www.tutorialexample.com/an-introduction-to-accuracy-precision-recall-f1-score-in-machine-learning-machine-learning-tutorial/
+
+
+
