@@ -31,7 +31,7 @@ F1 Score: 0.9531
 
 ![image](https://github.com/santtiospina/machineFailurePrediction/assets/75998236/76bd90ce-92c5-4606-804d-97ae68c381b7)
 
-obtained from: https://www.tutorialexample.com/an-introduction-to-accuracy-precision-recall-f1-score-in-machine-learning-machine-learning-tutorial/
+image taken from: https://www.tutorialexample.com/an-introduction-to-accuracy-precision-recall-f1-score-in-machine-learning-machine-learning-tutorial/
 
 
 
