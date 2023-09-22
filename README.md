@@ -11,14 +11,19 @@ _XGBoost, L1 Regularization, Johnson Transformation, QQplots, Statistical Distri
 
 ## Improved recall from 47.26% to 95.21% using Synthetic Minority Oversampling Technique and Extreme Gradient Boosting (XGBoost)
 
-The 47.26% recall was obtained using Johnson Transformations to the features and L1 regularization with alpha=0.07 
+The low 47.26% recall was obtained using Johnson Transformations to the features and L1 regularization with alpha=0.07 
 
-The Synthetic Minority Oversampling Technique (SMOTE) was necessary because of an imbalanced (98:2) dataset
+Recall improvement was needed. 
+
+The Synthetic Minority Oversampling Technique (SMOTE) was necessary because of an imbalanced (98:2) dataset:
 
 <img width="867" alt="Captura de pantalla 2023-09-13 a la(s) 1 18 07 p m" src="https://github.com/santtiospina/machineFailurePrediction/assets/75998236/f3fcec8e-3738-4366-b8d9-afdb0dfaff72">
 
+With feature engineering, removing multicollinearity, and encoding categorial variables, the model using Synthetic Minority Oversampling Technique and Extreme Gradient Boosting (XGBoost) was able to improve recall in an imbalanced datasets obtaining:
 
-With feature engineering, removing multicollinearity, encoding categorial variables and oversampling the desired predicted feature the model was able to obtain:
+![image](https://github.com/santtiospina/machineFailurePrediction/assets/75998236/76bd90ce-92c5-4606-804d-97ae68c381b7)
+obtained from: https://www.tutorialexample.com/an-introduction-to-accuracy-precision-recall-f1-score-in-machine-learning-machine-learning-tutorial/
+
 
 Accuracy: 0.9985
 
